@@ -1,3 +1,4 @@
+![ChuckNorris](https://github.com/Heike13/Chuck-Norris-Facts-API/assets/157512723/d2a40cd5-5a2c-4f4e-81e0-8cafccb8bf70)
 # Chuck Norris Facts project
 
 Welcome in this React project build by the almighty Chuck Norris !
